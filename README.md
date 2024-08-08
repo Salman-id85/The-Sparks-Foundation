@@ -82,4 +82,4 @@ Compare with Known Labels: While unsupervised learning does not use labeled data
 Conclusion
 Applying unsupervised learning to the Iris dataset helps in discovering natural groupings or patterns among the iris samples. By exploring clustering techniques, you can identify distinct groups of iris flowers based on their features, providing insights into the underlying structure of the data.
 
-# code : "https://github.com/Salman-id85/The-Sparks-Foundation/tree/main/The%20Sparks%20Foundation_Task_2"
+code : "https://github.com/Salman-id85/The-Sparks-Foundation/tree/main/The%20Sparks%20Foundation_Task_2"
