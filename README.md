@@ -84,6 +84,60 @@ Applying unsupervised learning to the Iris dataset helps in discovering natural 
 
 code : "https://github.com/Salman-id85/The-Sparks-Foundation/tree/main/The%20Sparks%20Foundation_Task_2"
 
+# Task 3
+
+# Exploratory Data Analysis (EDA) on Retail Data
+Project Overview
+This repository contains the Exploratory Data Analysis (EDA) for a retail dataset. The objective of this analysis is to gain insights into retail operations, customer behavior, and sales performance. By exploring the data, we aim to identify patterns, trends, and anomalies that can inform business strategies and decision-making.
+
+# Objectives
+Understand Sales Performance: Analyze sales data to evaluate overall performance and identify key factors driving sales.
+Customer Behavior: Explore customer purchasing patterns to better understand buying behavior and preferences.
+Product Insights: Assess product performance and identify top-selling and underperforming items.
+Geographical Analysis: Examine sales and customer data across different geographic locations.
+Dataset Description
+The dataset includes various attributes related to retail transactions, such as:
+
+Transaction ID: Unique identifier for each transaction.
+Date: Date of the transaction.
+Customer ID: Unique identifier for each customer.
+Product ID: Unique identifier for each product.
+Product Category: Category to which the product belongs.
+Quantity Sold: Number of units sold in the transaction.
+Sales Amount: Total amount of the sale.
+Store Location: Geographic location of the store where the transaction occurred.
+# Analysis Approach
+Data Cleaning: Preparing the data by addressing missing values, correcting inconsistencies, and removing duplicates.
+Exploratory Analysis: Performing initial exploration to understand the structure and characteristics of the dataset.
+Sales Analysis: Evaluating sales performance over time and identifying trends.
+Customer Analysis: Analyzing customer behavior, including purchase frequency and average transaction value.
+Product Analysis: Assessing product performance, identifying best-sellers, and evaluating inventory needs.
+Geographical Analysis: Mapping sales data to analyze performance across different regions.
+# Key Insights
+Sales Trends: Summary of sales trends over different time periods, including seasonal variations.
+Customer Segmentation: Insights into customer purchasing patterns and segmentation.
+Product Performance: Analysis of top-performing and low-performing products.
+Regional Performance: Overview of sales performance across different geographic locations.
+# How to Use
+Clone the Repository: Download the project using the repository link.
+Review the Analysis: Open the provided notebooks or analysis files to explore the EDA process and findings.
+Visualizations: Check the visualizations directory for charts and graphs that illustrate key insights.
+# Requirements
+The project requires the following Python libraries:
+
+->Pandas
+->NumPy
+->Matplotlib
+->Seaborn
+
+# Contribution
+Contributions to enhance the analysis or add new features are welcome. Please submit a pull request or open an issue for any suggestions or improvements.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+code ("")
+
 # Task 4
 # Exploratory Data Analysis (EDA) on Terrorism
 Project Summary
