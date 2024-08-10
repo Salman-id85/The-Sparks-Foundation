@@ -83,3 +83,52 @@ Conclusion
 Applying unsupervised learning to the Iris dataset helps in discovering natural groupings or patterns among the iris samples. By exploring clustering techniques, you can identify distinct groups of iris flowers based on their features, providing insights into the underlying structure of the data.
 
 code : "https://github.com/Salman-id85/The-Sparks-Foundation/tree/main/The%20Sparks%20Foundation_Task_2"
+
+# Task 3
+# Exploratory Data Analysis (EDA) on Terrorism
+Overview
+This repository contains the Exploratory Data Analysis (EDA) for a project focused on understanding terrorism data. The goal of this analysis is to uncover patterns, trends, and insights from the dataset to inform further research and analysis.
+
+# Project Description
+In this project, we analyze a comprehensive dataset related to terrorism incidents. The dataset includes information on various aspects of terrorism, such as location, date, type of attack, casualties, and more. Through exploratory data analysis, we aim to:
+
+Identify significant trends and patterns in terrorism incidents.
+Visualize data to better understand the distribution and frequency of attacks.
+Explore correlations between different features of the data.
+Provide insights into the geographical and temporal aspects of terrorism.
+# Dataset
+The dataset used in this analysis includes:
+
+Incident ID: Unique identifier for each terrorism incident.
+Date: Date when the incident occurred.
+Location: Geographic location of the incident.
+Attack Type: Type of the attack (e.g., bombing, shooting).
+Casualties: Number of casualties resulting from the attack.
+Additional Features: Various other attributes related to the incidents.
+Analysis Steps
+Data Cleaning: Preparing the data by handling missing values, removing duplicates, and correcting inconsistencies.
+Data Exploration: Examining the dataset to understand its structure and key characteristics.
+Descriptive Statistics: Calculating summary statistics to describe the main features of the data.
+Data Visualization: Creating visual representations (e.g., histograms, scatter plots, heatmaps) to identify trends and patterns.
+Correlation Analysis: Exploring relationships between different features in the dataset.
+Geospatial Analysis: Mapping terrorism incidents to analyze geographic distribution.
+Temporal Analysis: Examining changes in terrorism incidents over time.
+Key Findings
+Trend Analysis: Summary of observed trends over time.
+Geographical Insights: Key observations about the distribution of incidents across different regions.
+Attack Type Analysis: Insights into the most common types of attacks.
+Casualty Analysis: Analysis of casualty data to identify patterns.
+Open the Jupyter notebooks or scripts to review the exploratory data analysis.
+# Explore Visualizations:
+Check the visualizations folder for charts and plots generated during the analysis.
+Requirements
+->Python 3.x
+->Pandas
+->NumPy
+->Matplotlib
+->Seaborn
+->GeoPandas (for geospatial analysis)
+->Contributing
+Contributions are welcome! If you have suggestions for improvements or additional analyses, please feel free to submit a pull request or open an issue.
+code (" ")
+
