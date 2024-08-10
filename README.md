@@ -336,7 +336,7 @@ Training: Execute the training scripts to build and evaluate the numerical and t
 Prediction: Use the trained hybrid model to make predictions and analyze results.
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please follow the contributing guidelines outlined in CONTRIBUTING.md.
-code ("")
+code ("https://github.com/Salman-id85/The-Sparks-Foundation/tree/main/The%20Sparks%20Foundation_Task_7")
 # Task 8
 
 # Timeline analysis of the Covid-19
