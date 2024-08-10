@@ -295,6 +295,48 @@ Contributions to enhance the analysis or expand the project are welcome. Please 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+# Task 7
+# Stock Market Prediction Using Numerical and Textual Analysis
+Project Overview
+This repository hosts a project dedicated to predicting stock market performance by combining numerical and textual analysis. The approach integrates quantitative analysis of historical stock prices with qualitative insights derived from news headlines to enhance prediction accuracy.
+
+# Features
+Numerical Analysis: Analysis of historical stock prices using various machine learning and statistical techniques.
+Textual Analysis: Sentiment analysis of news headlines to capture market sentiment.
+Hybrid Model: Integration of both numerical and textual features for improved prediction accuracy.
+Workflow
+# Data Collection
+
+Stock Data: Historical price data is collected from financial APIs such as Yahoo Finance or Alpha Vantage.
+News Data: News headlines related to stock markets are gathered using news APIs or web scraping.
+Data Preprocessing
+
+Numerical Data: Clean and preprocess historical stock data. Generate features like moving averages and volatility measures.
+Textual Data: Process and clean news headlines. Perform sentiment analysis to extract sentiment scores and other relevant features.
+Feature Engineering
+
+Numerical Features: Create features from stock price data, including technical indicators.
+Textual Features: Extract features from news headlines, such as sentiment scores and keyword frequencies.
+Model Development
+
+Numerical Models: Train machine learning models like linear regression, decision trees, or time series models using numerical data.
+Textual Models: Apply NLP techniques to analyze sentiment and train models to predict stock price movements based on news sentiment.
+Model Integration
+
+Combine predictions from numerical and textual models using techniques like feature concatenation or ensemble methods.
+Evaluate the hybrid model’s performance to ensure accuracy and robustness.
+Results and Evaluation
+
+Assess model performance using metrics such as Mean Squared Error (MSE), R-squared, and accuracy.
+Compare the hybrid model’s predictions with actual stock market data to validate effectiveness.
+Setup and Usage
+Installation: Clone the repository and install the necessary dependencies using pip or conda.
+Data Preparation: Run the provided scripts to download and preprocess both stock and news data.
+Training: Execute the training scripts to build and evaluate the numerical and textual models.
+Prediction: Use the trained hybrid model to make predictions and analyze results.
+Contributing
+Contributions are welcome! If you have suggestions or improvements, please follow the contributing guidelines outlined in CONTRIBUTING.md.
+code ("")
 # Task 8
 
 # Timeline analysis of the Covid-19
